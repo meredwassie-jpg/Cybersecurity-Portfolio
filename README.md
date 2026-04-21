@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/meredwassie-jpg/Cybersecurity-Portfolio/blob/9964dd949b98dfcfbf72b77e34b3373b19118fe5/Portfoliobannerr.jpg" width="100%" />
+  <img src="https://github.com/meredwassie-jpg/Cybersecurity-Portfolio/blob/487f269ca1d920de24383c8a5b0d430ff023c1b7/Bannerportfolio.JPG" width="100%" />
 </p>
 # Cybersecurity Portfolio – Mered Wassie
 
