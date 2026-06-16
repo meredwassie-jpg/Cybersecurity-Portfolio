@@ -1,68 +1,118 @@
 <p align="center">
-  <img src="https://github.com/meredwassie-jpg/Cybersecurity-Portfolio/blob/6b794f79630f53e55f1477b089ea650fd03357a4/updatedbannerportfolio.JPG" width="100%" />
+  <img src="YOUR_NEW_HEALTHCARE_BANNER_IMAGE_URL_HERE" width="100%" />
 </p>
-# Cybersecurity Portfolio – Mered Wassie
 
-**Cybersecurity Engineer | SOC Analyst | Network Security | Fraud Detection**
-##  About Me
+# Healthcare Data Analytics Portfolio – Mered Wassie
 
-I am a cybersecurity professional with over 15 years of experience in telecommunications, specializing in network security, fraud detection, and incident monitoring.
+**Healthcare Data Analyst | Health Informatics | Clinical Data Analytics | Healthcare AI**
 
-I have extensive experience analyzing suspicious activity, identifying anomalies, and protecting large-scale telecom infrastructure. I recently strengthened my expertise with ISC2 Certified in Cybersecurity (CC) and continue to build hands-on skills in SOC operations, threat detection, and incident response.
+---
 
-This portfolio demonstrates my practical cybersecurity skills through real-world simulations and security projects.
+## 🧠 About Me
+
+I am a data professional with a strong foundation in **Computer Science, SQL, and Statistical Analysis**, transitioning into **Healthcare Data Analytics and Health Informatics**.
+
+My focus is on transforming healthcare data into actionable insights that improve patient outcomes, optimize hospital operations, and support evidence-based decision-making.
+
+I am currently building expertise in:
+- Healthcare data standards (ICD-10, CPT, FHIR, HL7)
+- Healthcare analytics and reporting
+- Clinical data interpretation
+- Healthcare data governance and HIPAA compliance
+- Population health and predictive analytics
+
+This portfolio showcases hands-on healthcare analytics projects using real-world inspired datasets and industry-relevant tools.
 
 ---
 
 ## 🛠 Skills
 
-- **SIEM & Monitoring:** Log analysis, SIEM concepts (Splunk – learning)
-- **Networking:** TCP/IP, DNS, VPN, subnetting
-- **Security:** Incident Response, Threat Detection, Vulnerability Analysis
-- **Tools:** Wireshark, Nmap, Linux
-- **Domains:** Telecom Fraud Detection, Network Security
+### 📊 Data Analytics & Programming
+- Python (Pandas, NumPy, Scikit-Learn)
+- SQL (Joins, Window Functions, Cohort Analysis)
+- Statistics & Data Analysis
+- Excel (Advanced)
+
+### 🏥 Healthcare Data & Informatics
+- Electronic Health Records (EHR) Concepts
+- ICD-10 (Diagnosis Coding)
+- CPT (Procedure Coding)
+- FHIR (Healthcare APIs & Data Exchange)
+- HL7 (Healthcare Messaging Basics)
+- HIPAA (Healthcare Data Privacy & Security)
+- Data Governance & Data Quality
+
+### 📈 Visualization & BI Tools
+- Power BI
+- Tableau
+- Data storytelling & KPI dashboards
+
+### ☁️ Tools & Technologies
+- PostgreSQL / MySQL
+- Git & GitHub
+- Python Jupyter Notebooks
+- Basic Cloud Concepts (Azure/AWS)
 
 ---
 
-## Projects
+## 🏥 Healthcare Analytics Projects
 
-### 🔎 SOC Incident Investigation – Brute Force Attack
-- Analyzed authentication logs to detect multiple failed login attempts
-- Identified attack patterns from a suspicious IP address
-- Correlated logs to confirm brute-force behavior
-- Simulated incident response (containment, mitigation, reporting)
+### 📊 Hospital Readmission Risk Analysis
+- Built SQL-based analysis to identify 30-day hospital readmission patterns
+- Analyzed patient demographics, diagnosis codes, and admission history
+- Generated insights to support early intervention strategies
+- Tools: SQL, Python, Power BI
 
-### 🌐 Network Traffic Analysis (Wireshark)
-- Captured and analyzed network packets
-- Identified protocols such as HTTP, HTTPS, and DNS
-- Investigated suspicious traffic patterns
-- Explained TCP 3-way handshake in real scenarios
+---
 
-### 🧪 Network Scanning & Enumeration (Nmap)
-- Performed network scanning to identify open ports
-- Analyzed exposed services (SSH, HTTP, HTTPS)
-- Evaluated potential security risks
-- Suggested mitigation strategies
+### 📈 Population Health Dashboard
+- Designed interactive dashboard tracking chronic disease trends
+- Visualized diabetes, hypertension, and preventive care metrics
+- Supported population-level healthcare decision-making
+- Tools: Power BI, SQL
+
+---
+
+### 🧬 Healthcare Data Quality & Governance Project
+- Performed data validation checks on healthcare datasets
+- Identified missing values, duplicates, and inconsistent records
+- Applied basic healthcare data governance principles
+- Tools: Python, SQL
+
+---
+
+### 🔗 FHIR Healthcare Data Exploration (Beginner Project)
+- Explored FHIR structure (Patient, Observation, Encounter resources)
+- Simulated healthcare API data ingestion
+- Analyzed structured clinical data formats
+- Tools: Python, JSON, FHIR concepts
+
+---
 
 ## 📜 Certifications
 
-- ISC2 Certified in Cybersecurity (CC)
-- ComptiaSecurity+
+- Google Data Analytics Certificate (or your current cert)
+- Microsoft Power BI (In Progress / Planned)
+- CHDA (Certified Health Data Analyst – Planned)
+- SQL & Python (Self-Directed Projects)
 
 ---
 
-## Career Focus
+## 🎯 Career Focus
 
-Actively seeking:
-- SOC Analyst (Tier 1 / Tier 2)
-- Cybersecurity Analyst
-- Security Operations Analyst
-- Network Security Analyst
+Actively seeking opportunities in:
 
-Open to **Denver-based and remote opportunities**
+- Healthcare Data Analyst
+- Health Informatics Analyst
+- Clinical Data Analyst
+- Population Health Analyst
+- Healthcare BI Analyst
+
+Open to **Denver-based and remote healthcare analytics roles**
 
 ---
 
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/meredwassie/
+- GitHub: https://github.com/YOURUSERNAME
