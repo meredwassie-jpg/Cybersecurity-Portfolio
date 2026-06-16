@@ -91,11 +91,11 @@ This portfolio showcases hands-on healthcare analytics projects using real-world
 
 ## 📜 Certifications
 
-- Google Data Analytics Certificate (or your current cert)
-- Microsoft Power BI (In Progress / Planned)
-- CHDA (Certified Health Data Analyst – Planned)
-- SQL & Python (Self-Directed Projects)
-
+- Microsoft Certified: Power BI Data Analyst (PL-300)
+- ISC2 Certified in Cybersecurity (CC)
+- Project Management Professional (PMP) – PMI
+- Certified Health Data Analyst (CHDA) – Planned
+- SQL & Python – Self-Directed Projects
 ---
 
 ## 🎯 Career Focus
@@ -115,4 +115,4 @@ Open to **Denver-based and remote healthcare analytics roles**
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/meredwassie/
-- GitHub: https://github.com/YOURUSERNAME
+- GitHub: https://github.com/meredwassie-jpg
